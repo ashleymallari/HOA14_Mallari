@@ -1,5 +1,5 @@
 ---
-- name: Install Glance on CentOS
+- name: Install Glance on Ubuntu
   hosts: compute
   become: yes
   tasks:
